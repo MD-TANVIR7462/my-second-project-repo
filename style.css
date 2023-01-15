@@ -439,7 +439,28 @@ body {
       padding-top: 1%; font-size: 28px; 
    }
    
+   /* ----------------------quick list of our features part -----------*/
 
+
+   .section-1-features {grid-template-columns: 1fr; 
+      
+   }
+
+   .section-img {margin: 10% 0;
+   }
+   .section-1-img {
+     width: 100%;
+   }
+   #phone-heading{
+      text-align: center;
+   }
+   .sec-pera {
+     text-align: center;
+   }
+   .btn-1{
+     position: relative; left: 35%;
+   }
+   
    /*------------------------- you-will-love-our-features-part -------------*/
 
    .section-2-main-div {
